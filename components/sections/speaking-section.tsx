@@ -11,25 +11,25 @@ const topicCards = [
         id: 1,
         title: "The Future of Work",
         subtitle: "Key Insights & Strategies",
-        image: "Digital+Transformation+1",
+        image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
         id: 2,
         title: "Innovation Leadership",
         subtitle: "Driving Change Through Vision",
-        image: "Digital+Transformation+2",
+        image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
         id: 3,
         title: "Digital Strategy",
         subtitle: "Building Sustainable Growth",
-        image: "Digital+Transformation+3",
+        image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
         id: 4,
         title: "Digital Strategy",
         subtitle: "Building Sustainable Growth",
-        image: "Digital+Transformation+3",
+        image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
 ]
 
@@ -38,19 +38,19 @@ const empathyCards = [
         id: 1,
         title: "The Future of Work",
         subtitle: "Key Insights & Strategies",
-        image: "Empathy+Gradient+1",
+        image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
         id: 2,
         title: "Digital Strategy",
         subtitle: "Building Sustainable Growth",
-        image: "Empathy+Gradient+2",
+        image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
         id: 3,
         title: "Innovation Leadership",
         subtitle: "Driving Change Through Vision",
-        image: "Empathy+Gradient+3",
+        image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
 ]
 

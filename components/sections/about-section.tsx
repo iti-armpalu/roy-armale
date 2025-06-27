@@ -27,7 +27,7 @@ export const AboutSection = forwardRef<HTMLDivElement, AboutSectionProps>(({ cla
 
                     <div className="bg-gray-200 aspect-[4/3] rounded-lg">
                         <Image
-                            src="/placeholder.svg?height=400&width=500&text=Roy+Armale+Portrait"
+                            src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                             alt="Roy Armale"
                             width={300}
                             height={200}
