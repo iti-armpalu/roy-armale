@@ -1,5 +1,4 @@
 import { forwardRef } from "react"
-import Image from "next/image"
 import { TopicSlider } from "../ui/topic-slider"
 
 interface SpeakingSectionProps {
